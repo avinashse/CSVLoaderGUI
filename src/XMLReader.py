@@ -24,7 +24,7 @@ class XmlReader:
         lxml.etree.SubElement(connection, "IP").text = DBIP
         lxml.etree.SubElement(connection, "Port").text = DBPort
         lxml.etree.SubElement(connection, "DBInstance").text = DBInstance
-        with open(self.fileName, 'wb') as f:
+        with open(self.fileName, 'w') as f:
             f.write(lxml.etree.tostring(self.root, pretty_print=True))
 
     def parseAndFillTreeView(self):
