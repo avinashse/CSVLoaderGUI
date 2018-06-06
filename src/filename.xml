@@ -7,4 +7,7 @@
     <Port>asf</Port>
     <DBInstance>234</DBInstance>
   </DBConnectionName>
-<DBConnectionName><Name>2314</Name><UserName>2134</UserName><Password>2134</Password><IP>2134</IP><Port>2134</Port><DBInstance>2134</DBInstance></DBConnectionName><DBConnectionName><Name>3245</Name><UserName>2345</UserName><Password>32453245</Password><IP>3245</IP><Port>324532</Port><DBInstance>3245</DBInstance></DBConnectionName><DBConnectionName><Name>123234</Name><UserName>2134</UserName><Password>2143</Password><IP>2134</IP><Port>1234</Port><DBInstance>2134</DBInstance></DBConnectionName><DBConnectionName><Name>DEV_TC_5</Name><UserName>DTCAPP5</UserName><Password>DTCAPP5</Password><IP>10.120.21.123</IP><Port>1521</Port><DBInstance>DEVTC1</DBInstance></DBConnectionName></root>
+<DBConnectionName><Name>2314</Name><UserName>2134</UserName><Password>2134</Password><IP>2134</IP><Port>2134</Port><DBInstance>2134</DBInstance></DBConnectionName>
+<DBConnectionName><Name>3245</Name><UserName>2345</UserName><Password>32453245</Password><IP>3245</IP><Port>324532</Port><DBInstance>3245</DBInstance></DBConnectionName>
+<DBConnectionName><Name>123234</Name><UserName>2134</UserName><Password>2143</Password><IP>2134</IP><Port>1234</Port><DBInstance>2134</DBInstance></DBConnectionName>
+</root>
